@@ -1,7 +1,7 @@
 // Add Bootstrap Icons CSS to the head
 var link = document.createElement('link');
 link.rel = 'stylesheet';
-link.href = 'https://w.app/fontawesome-free-5.15.4-web/css/all.css';
+link.href = 'https://raw.githubusercontent.com/Cjarav/wsp/main/all.css';
 document.getElementsByTagName('head')[0].appendChild(link);
 
 // Add CSS to the head
